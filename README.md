@@ -1,4 +1,4 @@
-# Simple evolutionary algorithm
+# Simple evolutionary algorithm(A portfolio)
 A portfolio for Spring Internship of Sony Interactive Entertainment
 
 This program solve simple problem using evolutionary algorithm.
