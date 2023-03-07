@@ -1,4 +1,4 @@
-# Simple evolutionary algorithm(A Portfolio)
+# Simple evolutionary algorithm(A portfolio)
 
 This program solve simple problem using evolutionary algorithm.
 
